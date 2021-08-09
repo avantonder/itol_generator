@@ -4,7 +4,7 @@ Script for generating metadata strip files for iTOL from csv file of metadata.
 
 # Usage:
 
-python iTOl_generator.py -i metadata.csv -m "#a0a0a0"
+python iTOL_generator.py -i metadata.csv -m "#a0a0a0"
 
 optional arguments:
 
